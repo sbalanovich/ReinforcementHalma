@@ -1,0 +1,35 @@
+reward for first time placing in a winning slot
+	We'd like to backpropagate when we get to something meaningful
+negative reward for moving
+write fitted q
+create graphs of learning 
+(Comapre to practical 2 for the above 2 tasks)
+
+
+[X][X][_][_]
+[X][_][_][_]
+[_][_][_][O]
+[_][_][O][O]
+
+[O][O][O]
+[_][X][X]
+[X][O][_]
+
+(0, 0) to (0, 2)
+(0, 2) to (0, 0)
+
+Q learning, sarsa, fitted q
+-----------------------------
+
+Debug MCTS
+Debug graphing for naive agent
+Figuring out good rewards for naive agent
+
+Trying out Fitted Q
+Random agent?
+
+Slides
+1.) what is halma 
+2.) what approaches did we try
+3.) here are our results
+4.) where do we go from here
